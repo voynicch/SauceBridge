@@ -313,7 +313,7 @@ Post-1.0 development can focus on:
 
 ## Contributing
 
-Issues, testing reports, repository compatibility findings, and pull requests are welcome once the public repository is available.
+Issues, testing reports, repository compatibility findings, and pull requests are welcome.
 
 When reporting a problem, include the generated diagnostic report whenever possible.
 
